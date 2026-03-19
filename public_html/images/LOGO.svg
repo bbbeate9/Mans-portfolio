@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="LOGO.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="396.50513"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="196.8853"
+       y="211.92515"
+       width="806.68285"
+       height="177.74368"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Slānis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path1"
+       cx="69.99939"
+       cy="110.51584"
+       rx="3.0749073"
+       ry="3.0749102" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.601706,58.242387)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:0.9;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';letter-spacing:-0.4px;white-space:pre;shape-inside:url(#rect1);fill:#000000;fill-opacity:1"><tspan
+         x="196.88477"
+         y="354.7136"
+         id="tspan2">MONER</tspan></text>
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       id="path6"
+       cx="83.384285"
+       cy="111.05846"
+       rx="3.0749087"
+       ry="3.2557855" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.265339"
+       id="rect10"
+       width="6.0803237"
+       height="39.760159"
+       x="-148.21494"
+       y="-43.233673"
+       transform="matrix(-0.71716223,-0.69690626,0.6165595,-0.78730831,0,0)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.266432"
+       id="rect11"
+       width="2.6198421"
+       height="59.273937"
+       x="-30.980986"
+       y="145.38643"
+       ry="0.32748038"
+       transform="matrix(0.64584551,-0.76346812,0.64584551,0.76346812,0,0)" />
+  </g>
+</svg>
